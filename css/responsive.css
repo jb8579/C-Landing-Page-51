@@ -1,0 +1,688 @@
+@media screen and (min-width: 1240px) and (max-width: 30000px) {
+}
+
+@media screen and (min-width: 1200px) and (max-width: 1239px) {
+  .container {
+    padding: 0 30px;
+  }
+
+  .interftrpart {
+    gap: 60px;
+  }
+
+  .footer-nav ul li {
+    margin-right: 8px;
+  }
+
+  .footer-nav ul li a {
+    font-size: 13px;
+  }
+
+  .footer-logo img {
+    max-width: 51%;
+    display: block;
+  }
+}
+
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+  .container {
+    padding: 0 30px;
+  }
+
+  .freespingpart {
+    padding: 17px 25px;
+    padding-left: 30px;
+  }
+
+  .freespingitem4 a {
+    font-size: 18px;
+    width: 155px;
+    height: 46px;
+    line-height: 46px;
+    margin: auto;
+    margin-right: 0px;
+  }
+
+  .freespingitem3 h3 {
+    font-size: 26px;
+  }
+
+  .footerlogos ul li {
+    display: inline-block;
+    margin: 0 15px;
+  }
+
+  .innertext-heading h2 {
+    font-size: 55px;
+  }
+
+  .innertext-heading {
+    padding: 15px 0;
+    padding-bottom: 57px;
+  }
+
+  .interftrpart {
+    display: block;
+  }
+
+  .interftr-left {
+    width: 100%;
+    margin-bottom: 40px;
+  }
+
+  .footertext p {
+    font-size: 15px;
+    line-height: 28px;
+    text-align: center;
+  }
+
+  .footer-logo img {
+    max-width: 100%;
+    display: block;
+    margin: auto;
+  }
+
+  .interftr-right {
+    width: 100%;
+  }
+
+  .footer-nav ul {
+    padding-top: 20px;
+    text-align: center;
+  }
+
+  .footer-nav ul li {
+    display: inline-block;
+    margin-right: 0px;
+    padding: 0 8px;
+  }
+
+  .footer-nav h3 {
+    font-size: 20px;
+    line-height: 31px;
+    text-align: center;
+  }
+
+  .freespinglogos img {
+    max-width: 70%;
+    display: block;
+  }
+
+  .freespingtext1 h3 {
+    font-size: 20px;
+  }
+
+  .freespingtext1 p {
+    font-size: 13px;
+  }
+
+  .freespingtext2 h3 {
+    font-size: 18px;
+  }
+
+  .freespingtext2 img {
+    max-width: 64%;
+    display: block;
+    margin: auto;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+  .container {
+    padding: 0 30px;
+  }
+
+  .hero-part {
+    width: 100%;
+  }
+
+  .hero-part h1 {
+    font-size: 60px;
+    line-height: 75px;
+    padding-bottom: 15px;
+  }
+
+  .freesping-area {
+    padding: 30px 0;
+    padding-top: 40px;
+  }
+
+  .freespingpart {
+    padding: 18px 15px;
+    padding-left: 15px;
+    padding-top: 45px;
+    display: block;
+    height: initial;
+    position: relative;
+  }
+
+  .hero-area {
+    padding: 110px 0px;
+    padding-top: 80px;
+  }
+
+  .freespingitem1 {
+    width: 100%;
+    display: flex;
+    gap: 20px;
+  }
+
+  .freespinglogos {
+    width: 60%;
+  }
+
+  .freespingrg-part {
+    display: block;
+    width: 40%;
+  }
+  .freespingitem3 {
+    width: 100%;
+    display: grid;
+    justify-content: right;
+  }
+
+  .sppingrt {
+    display: none;
+  }
+
+  .freespingitem2 {
+    width: 100%;
+    margin-bottom: 18px;
+    margin-top: 16px;
+  }
+
+  .freespingitem3 h3 {
+    line-height: 20px;
+    text-align: center;
+  }
+
+  .freespingitem3 h3 sub {
+    position: relative;
+    bottom: 7px;
+  }
+
+  .freespingitem3 img {
+    max-width: inherit;
+    display: block;
+    margin: auto;
+  }
+
+  .freespingitem4 a {
+    width: 100%;
+    height: 42px;
+    display: block;
+    line-height: 42px;
+    border-radius: 35px;
+    margin: auto;
+    margin-right: 0px;
+  }
+
+  .freespingitem4 {
+    width: 100%;
+  }
+
+  .freespingtext2 h3 {
+    margin: 0;
+    line-height: 30px;
+    text-align: right;
+  }
+
+  .freespingtext1 p {
+    font-weight: 500;
+    margin: 0;
+  }
+
+  .innertext-part h2 br {
+    display: none;
+  }
+
+  .innertext-part h2 {
+    font-size: 32px;
+    line-height: 46px;
+    margin: 0;
+    padding-bottom: 25px;
+    text-transform: uppercase;
+  }
+
+  .footer-nav ul li a {
+    font-size: 15px;
+  }
+
+  .footerlogos ul li {
+    display: inline-block;
+    margin: 0 8px;
+  }
+
+  .footerlogos ul li a img {
+    margin: auto;
+    height: 32px;
+  }
+
+  .faq-heading h2 {
+    font-size: 45px;
+    line-height: 50px;
+  }
+
+  .innertext-heading h2 {
+    font-size: 45px;
+  }
+
+  .innertext-heading {
+    padding: 10px 0;
+    padding-bottom: 40px;
+  }
+
+  .innertext-area1 {
+    padding: 60px 0;
+  }
+
+  .freespingtext2 img {
+    margin-right: 0;
+  }
+
+  .interftrpart {
+    display: block;
+  }
+
+  .interftr-left {
+    width: 100%;
+    margin-bottom: 40px;
+  }
+
+  .footertext p {
+    font-size: 15px;
+    line-height: 28px;
+    text-align: center;
+  }
+
+  .footer-logo img {
+    max-width: 100%;
+    display: block;
+    margin: auto;
+  }
+
+  .interftr-right {
+    width: 100%;
+  }
+
+  .footer-nav ul {
+    padding-top: 20px;
+    text-align: center;
+  }
+
+  .footer-nav ul li {
+    display: inline-block;
+    margin-right: 0px;
+    padding: 0 8px;
+  }
+
+  .footer-nav h3 {
+    font-size: 20px;
+    line-height: 31px;
+    text-align: center;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .headertop-area {
+    padding: 5px 10px;
+  }
+
+  .headertop-part p {
+    font-size: 11px;
+    font-weight: 500;
+  }
+
+  .headertop-part p img {
+    width: 20px;
+    height: 20px;
+  }
+
+  .header-logo img {
+    max-width: initial;
+    display: block;
+    width: 210px;
+    height: 37px;
+  }
+
+  .hero-part {
+    width: 100%;
+  }
+
+  .hero-part h1 {
+    font-size: 28px;
+    font-weight: bold;
+    line-height: 38px;
+    margin: 0;
+    padding-bottom: 8px;
+  }
+
+  .hero-part h5 {
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 26px;
+  }
+
+  .hero-part p {
+    font-size: 15px;
+  }
+
+  .hero-part a {
+    font-size: 16px;
+    width: 175px;
+    height: 42px;
+    line-height: 42px;
+  }
+
+  .hero-area {
+    padding: 15px 0px;
+    padding-top: 30px;
+  }
+
+  .freesping-area {
+    padding: 0px 0;
+    padding-top: 30px;
+  }
+
+  .freespingpart {
+    padding: 18px 15px;
+    padding-left: 15px;
+    padding-top: 45px;
+    display: block;
+    height: initial;
+    position: relative;
+    border-radius: 5px;
+  }
+
+  .freespingitem1 {
+    width: 100%;
+    display: flex;
+    gap: 20px;
+  }
+
+  .freespinglogos {
+    width: 60%;
+  }
+
+  .freespingrg-part {
+    display: block;
+    width: 40%;
+  }
+  .freespingitem3 {
+    width: 100%;
+    display: grid;
+    justify-content: right;
+  }
+
+  .sppingrt {
+    display: none;
+  }
+
+  .freespingitem2 {
+    width: 100%;
+    margin-bottom: 18px;
+    margin-top: 16px;
+    display: block;
+  }
+
+  .freespingitem3 h3 {
+    font-size: 30px;
+    line-height: 20px;
+    text-align: center;
+  }
+
+  .freespingitem3 h3 sub {
+    font-size: 15px;
+    position: relative;
+    bottom: 7px;
+  }
+
+  .freespingitem3 img {
+    max-width: inherit;
+    display: block;
+    margin: auto;
+    width: 68px;
+  }
+
+  .freespingitem4 a {
+    font-size: 16px;
+    width: 100%;
+    height: 42px;
+    display: block;
+    line-height: 42px;
+    border-radius: 35px;
+    margin: auto;
+    margin-right: 0px;
+  }
+
+  .freespingitem4 {
+    width: 100%;
+  }
+
+  .freespingtext2 h3 {
+    font-size: 14px;
+    margin: 0;
+    line-height: 30px;
+    text-align: center;
+  }
+
+  .freespingtext1 h3 {
+    font-size: 26px;
+    line-height: 34px;
+    text-align: center;
+  }
+
+  .freespingtext1 p {
+    font-size: 13px;
+    font-weight: 500;
+    margin: 0;
+    line-height: 27px;
+    text-align: center;
+  }
+
+  .innertext-area {
+    padding: 30px 0;
+  }
+
+  .innertext-part {
+    border-radius: 7px;
+    padding: 35px 20px;
+  }
+
+  .innertext-part h2 {
+    font-size: 26px;
+    line-height: 40px;
+    padding-bottom: 10px;
+  }
+
+  .innertext-part p {
+    font-size: 14px;
+    margin: 0;
+    padding-bottom: 25px;
+    line-height: 23px;
+  }
+
+  .innertext-part h3 {
+    font-size: 17px;
+    line-height: 30px;
+    padding-bottom: 6px;
+  }
+
+  .innertext-part h4 {
+    font-size: 16px;
+    margin: 0;
+    line-height: 30px;
+    padding-bottom: 6px;
+  }
+
+  .footer-logo img {
+    max-width: initial;
+    display: block;
+    margin: auto;
+    width: 210px;
+  }
+
+  .footer-copyright {
+    padding: 10px 5px;
+  }
+
+  .footer-copyright p {
+    font-size: 10px;
+    text-align: center;
+    font-weight: 400;
+    line-height: 21px;
+  }
+
+  .footer-nav h3 {
+    font-size: 18px;
+    text-align: center;
+    line-height: 28px;
+  }
+
+  .footer-nav ul {
+    text-align: center;
+    padding-top: 18px;
+  }
+
+  .footer-nav ul li a {
+    font-size: 14px;
+  }
+
+  .footer-nav ul li {
+    display: block;
+    margin: 0 0px;
+    padding-bottom: 20px;
+  }
+
+  .footer-nav ul li span {
+    display: none;
+  }
+
+  .footerlogos ul {
+    padding-top: 20px;
+    padding-bottom: 45px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-column-gap: 0px;
+    align-items: center;
+    justify-content: space-around;
+    grid-row-gap: 38px;
+  }
+
+  .footertext p {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 26px;
+    padding-bottom: 30px;
+    text-align: center;
+  }
+
+  .innertext-part h5 {
+    font-size: 14px;
+    line-height: 24px;
+    padding-bottom: 0px;
+  }
+
+  .innertext-part ul li h6 {
+    font-size: 14px;
+    font-weight: 400;
+    padding-left: 13px;
+    line-height: 20px;
+    margin-top: -17px;
+  }
+
+  .innertext-part ul li span {
+    width: 4px;
+    height: 4px;
+  }
+
+  .innertext-heading h2 {
+    font-size: 25px;
+    line-height: 35px;
+  }
+
+  .innertext-heading {
+    padding: 10px 0;
+    padding-bottom: 30px;
+  }
+
+  .innertext-area1 {
+    padding: 40px 0;
+  }
+
+  .interftrpart {
+    display: block;
+    gap: 0px;
+  }
+
+  .interftr-left {
+    width: 100%;
+  }
+
+  .interftr-right {
+    width: 100%;
+    display: none;
+  }
+
+  .footer-nav2 {
+    display: block;
+  }
+
+  .freespingtext2 {
+    width: 100%;
+    padding-bottom: 12px;
+  }
+
+  .freespingtext1 {
+    width: 100%;
+    padding-bottom: 15px;
+  }
+
+  .hero-part ul {
+    padding-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: left;
+    width: 100%;
+    margin: auto;
+    flex-wrap: wrap;
+    gap: 16px;
+  }
+
+  .freespinglogos img {
+    max-width: 100%;
+    display: block;
+    width: 155px;
+  }
+
+  .offerpart {
+    position: absolute;
+    left: -9px;
+    top: -1px;
+  }
+
+  .hero-part ul li {
+    margin: 0 0px;
+  }
+
+  .hero-part ul li p {
+    font-size: 13px;
+    margin-left: 33px;
+    margin-top: -21px;
+  }
+
+  .hero-part ul li img {
+    max-width: 100%;
+    display: block;
+    height: 23px;
+  }
+
+  .innertext-part ul {
+    padding-bottom: 25px;
+  }
+
+  .innertext-part p br {
+    display: none;
+  }
+}
